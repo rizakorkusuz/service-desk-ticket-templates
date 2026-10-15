@@ -1,0 +1,21 @@
+Category,Subcategory,Typical type
+Hardware,Laptop or desktop,Incident
+Hardware,Monitor or dock,Incident
+Hardware,Printer or scanner,Incident
+Hardware,Peripheral request,Service request
+Software,Application error,Incident
+Software,Install or license request,Service request
+Operating system,Windows update or boot,Incident
+Operating system,macOS issue,Incident
+Identity and access,Password reset or unlock,Service request
+Identity and access,New account or group change,Service request
+Identity and access,MFA problem,Incident
+Email and collaboration,Outlook,Incident
+Email and collaboration,Teams,Incident
+Email and collaboration,OneDrive or SharePoint,Incident
+Network,Wi-Fi or wired,Incident
+Network,VPN,Incident
+Security,Phishing or suspicious activity,Incident
+Security,Lost or stolen device,Incident
+Onboarding and offboarding,New hire setup,Service request
+Onboarding and offboarding,Leaver processing,Service request
